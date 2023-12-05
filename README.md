@@ -2,6 +2,7 @@
 
 **DoubtShare (Real-Time Doubt Solving Platform) is an interactive real-time doubt solving platform designed to assist students with their academic queries.**
 <hr>
+
 **Deploy Link** (Both are backend deploy link)
 - cyclic deploy link-> https://outstanding-pleat-calf.cyclic.app/
 - Render deploy link-> https://varthaktech.onrender.com/
