@@ -1,6 +1,7 @@
 # revly.io
-**DoubtShare (Real-Time Doubt Solving Platform) is an interactive real-time doubt solving platform designed to assist students with their academic queries. **
 
+**DoubtShare (Real-Time Doubt Solving Platform) is an interactive real-time doubt solving platform designed to assist students with their academic queries.**
+<hr>
 **Deploy Link** (Both are backend deploy link)
 - cyclic deploy link-> https://outstanding-pleat-calf.cyclic.app/
 - Render deploy link-> https://varthaktech.onrender.com/
@@ -67,5 +68,13 @@ http://localhost:4500
 {
   "email": "prags@gmail.com",
   "password": "prags@123"
+}
+```
+
+### Sample Doubt question input Schema
+```javascript
+{
+  "subject": "chemistry",
+  "question": "what is Na2SO4 IUPC name?"
 }
 ```
